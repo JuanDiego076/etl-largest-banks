@@ -1,0 +1,8 @@
+2026-Oct-24-14:12:20 : Preliminares completos. Iniciando proceso ETL
+2026-Oct-24-14:12:20 : Extracción de datos completa. Iniciando proceso de Transformación
+2026-Oct-24-14:12:20 : Transformación de datos completa. Iniciando proceso de Carga
+2026-Oct-24-14:12:20 : Datos guardados en archivo CSV
+2026-Oct-24-14:12:20 : Conexión SQL iniciada
+2026-Oct-24-14:12:20 : Datos cargados en la base de datos como una tabla, ejecutando consultas
+2026-Oct-24-14:12:20 : Proceso completo
+2026-Oct-24-14:12:20 : Conexión al servidor cerrada
